@@ -1,0 +1,8 @@
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\bin\Debug\LinqEj1.exe.config
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\bin\Debug\LinqEj1.exe
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\bin\Debug\LinqEj1.pdb
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\obj\Debug\LinqEj1.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\obj\Debug\LinqEj1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\obj\Debug\LinqEj1.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\obj\Debug\LinqEj1.exe
+C:\Users\Mateo\Desktop\P3\LinqEj1\LinqEj1\obj\Debug\LinqEj1.pdb

@@ -1,0 +1,16 @@
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe.config
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\bin\Debug\LinqEjercicio2.pdb
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.exe
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2\LinqEjercicio2\obj\Debug\LinqEjercicio2.pdb
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\obj\Debug\LinqEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\obj\Debug\LinqEjercicio2.exe
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\obj\Debug\LinqEjercicio2.pdb
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe.config
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\bin\Debug\LinqEjercicio2.exe
+C:\Users\Mateo\Desktop\P3\LinqEjercicio2 terminado\LinqEjercicio2\bin\Debug\LinqEjercicio2.pdb
